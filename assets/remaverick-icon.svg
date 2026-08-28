@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#68D5FF"/>
+      <stop offset="1" stop-color="#3AA8FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" rx="220" fill="#0B233B"/>
+  <rect x="122" y="122" width="780" height="780" rx="168" fill="#102F4C"/>
+  <path d="M204 444c0-113 92-204 205-204h255l-76 76H409c-71 0-129 57-129 128v111H204z" fill="#F7FAFC"/>
+  <path d="M820 580c0 113-92 204-205 204H360l76-76h179c71 0 129-57 129-128V469h76z" fill="#F7FAFC"/>
+  <path d="M320 482h280l-72 72H320z" fill="#F7FAFC"/>
+  <path d="M484 410h103c49 0 89 40 89 89v58h-76v-49c0-7-6-13-13-13h-47z" fill="#F7FAFC"/>
+  <path d="M511 470l103 0M542 482l67 118M574 482l-67 118" fill="none" stroke="url(#accent)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="511" cy="470" r="27" fill="url(#accent)"/>
+  <circle cx="614" cy="470" r="27" fill="url(#accent)"/>
+  <circle cx="542" cy="600" r="27" fill="url(#accent)"/>
+</svg>
