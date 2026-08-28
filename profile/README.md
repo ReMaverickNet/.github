@@ -31,3 +31,7 @@ ReMaverick is not affiliated with, endorsed by, or operated by 1047 Games.
 Do not commit proprietary game binaries, encrypted/packaged game content, credentials, personal information, or other material that should not be redistributed. Preserve observations, hashes, metadata, and analysis instead.
 
 Anti-cheat research is limited to understanding behaviour, compatibility, architecture, and interoperability. We do not publish instructions for disabling, bypassing, tampering with, or evading anti-cheat systems.
+
+## Why "ReMaverick"?
+
+Maverick was the codename for Splitgate 2, as seen from playtests. It is called **Re**Maverick because the project attempts to restore Splitgate 2's dedicated servers eventually.
