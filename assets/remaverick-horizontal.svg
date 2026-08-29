@@ -1,13 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520">
-  <rect width="1600" height="520" rx="72" fill="#0B233B"/>
-  <g transform="translate(78 78)">
-    <rect width="364" height="364" rx="78" fill="#102F4C"/>
-    <path fill="#F7FAFC" d="M72 198v-56c0-56 46-101 102-101h129l-38 38h-91c-34 0-62 28-62 62v57H72z"/>
-    <path fill="#F7FAFC" d="M292 166v56c0 56-46 101-102 101H72l38-38h80c34 0 62-28 62-62v-57h40z"/>
-    <path fill="#F7FAFC" d="M132 190h119c30 0 54 24 54 54v39h-48v-31c0-11-9-20-20-20H132z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="400" viewBox="0 0 1400 400">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#68D5FF"/>
+      <stop offset="1" stop-color="#3AA8FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="400" rx="56" fill="#0B233B"/>
+  <g transform="translate(60 60)">
+    <rect width="280" height="280" rx="60" fill="#102F4C"/>
+    <path d="M66 120c0-35 28-64 64-64h79l-24 24h-55c-22 0-40 18-40 40v35H66z" fill="#F7FAFC"/>
+    <path d="M214 160c0 35-28 64-64 64H71l24-24h55c22 0 40-18 40-40v-35h24z" fill="#F7FAFC"/>
+    <path d="M101 154h86l-22 22h-64z" fill="#F7FAFC"/>
+    <path d="M152 132h32c15 0 28 13 28 28v19h-24v-16c0-4-3-7-7-7h-14z" fill="#F7FAFC"/>
   </g>
-  <g transform="translate(512 155)">
-    <text x="0" y="118" fill="#F7FAFC" font-family="Inter, Arial, sans-serif" font-size="118" font-weight="800" letter-spacing="-5">ReMaverick</text>
-    <text x="6" y="182" fill="#86A8C4" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="650" letter-spacing="9">NETWORK PRESERVATION</text>
+  <g transform="translate(390 92)">
+    <text x="0" y="94" fill="#F7FAFC" font-family="Inter, Arial, sans-serif" font-size="94" font-weight="800" letter-spacing="-4">ReMaverick</text>
+    <text x="4" y="145" fill="#86A8C4" font-family="Inter, Arial, sans-serif" font-size="27" font-weight="650" letter-spacing="7">NETWORK PRESERVATION</text>
   </g>
 </svg>
