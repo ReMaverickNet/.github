@@ -35,6 +35,16 @@ Do not commit proprietary game binaries, encrypted/packaged game content, creden
 
 Anti-cheat research is limited to understanding behaviour, compatibility, architecture, and interoperability. We do not publish instructions for disabling, bypassing, tampering with, or evading anti-cheat systems.
 
+## Contact & legal
+
+ReMaverick is an independent community research and preservation project and is not affiliated with, endorsed by, or operated by 1047 Games, Inc.
+
+**SPLITGATE** and related names, logos, and other trademarks are the property of their respective owners, including 1047 Games, Inc.
+
+For questions, corrections, takedown requests, legal concerns, or other matters relating to the project, contact **[maverick@xdan.me](mailto:maverick@xdan.me)**.
+
+Please do not send passwords, authentication tokens, personal information, private communications, or proprietary game files.
+
 ## Why "ReMaverick"?
 
 Maverick was the codename for Splitgate 2, as seen from playtests. It is called **Re**Maverick because the project attempts to restore Splitgate 2's dedicated servers eventually.
