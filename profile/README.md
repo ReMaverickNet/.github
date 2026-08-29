@@ -1,4 +1,7 @@
-# ReMaverick
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ReMaverickNet/.github/main/assets/remaverick-icon.svg" alt="ReMaverick icon" width="72" height="72" valign="middle">
+  ReMaverick
+</h1>
 
 **ReMaverick** is an independent community research and preservation project focused on **SPLITGATE: Arena Reloaded** and the infrastructure that keeps it playable.
 
