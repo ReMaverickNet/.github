@@ -47,4 +47,4 @@ Please do not send passwords, authentication tokens, personal information, priva
 
 ## Why "ReMaverick"?
 
-Maverick was the codename for Splitgate 2, as seen from playtests. It is called **Re**Maverick because the project attempts to restore Splitgate 2's dedicated servers eventually.
+To my knowledge, Maverick was the name given to Splitgate 2's primary backend domain and internal API service name for 1047 Games. Since this aims to return Splitgate AR servers via dedicated server hosting as the final goal of this project, the name **Re**Maverick works as it returns server functionality to the game.
