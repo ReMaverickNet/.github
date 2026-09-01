@@ -35,6 +35,12 @@ Do not commit proprietary game binaries, encrypted/packaged game content, creden
 
 Anti-cheat research is limited to understanding behaviour, compatibility, architecture, and interoperability. We do not publish instructions for disabling, bypassing, tampering with, or evading anti-cheat systems.
 
+### Community collaboration
+
+ReMaverickNet is an independent research and preservation project. We are currently collaborating with members of [Splitgate Lifers](https://discord.gg/gyXGrSrhpD), which is a community-led Splitgate: Arena Reloaded revival effort, while focusing on investigating the game's networking and the potential feasibility of community-hosted authoritative infrastructure following the transition away from official dedicated matchmaking, particularly in the [research repository](https://github.com/ReMaverickNet/research).
+
+SGLifers is independently focused on keeping the game's community active through P2P and other community initiatives, while ReMaverickNet's focused primarily on technical research and preservation. The two projects remain independent though, and this work is not affiliated with or endorsed by 1047 Games.
+
 ## Contact & legal
 
 ReMaverick is an independent community research and preservation project and is not affiliated with, endorsed by, or operated by 1047 Games, Inc.
@@ -47,4 +53,4 @@ Please do not send passwords, authentication tokens, personal information, priva
 
 ## Why "ReMaverick"?
 
-To my knowledge, Maverick was the name given to Splitgate 2's primary backend domain and internal API service name for 1047 Games. Since this aims to return Splitgate AR servers via dedicated server hosting as the final goal of this project, the name **Re**Maverick works as it returns server functionality to the game.
+To my knowledge, Maverick was the name given to Splitgate 2's primary backend domain and internal API service name for 1047 Games. Since this aims to return Splitgate AR servers via dedicated server hosting as the final potential goal of this project, the name **Re**Maverick works well.
