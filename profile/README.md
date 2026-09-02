@@ -41,6 +41,16 @@ ReMaverickNet is an independent research and preservation project. We are curren
 
 SGLifers is independently focused on keeping the game's community active through P2P and other community initiatives, while ReMaverickNet's focused primarily on technical research and preservation. The two projects remain independent though, and this work is not affiliated with or endorsed by 1047 Games.
 
+## Current technical understanding
+
+First-party information gathered shortly before the P2P transition indicates that **Maverick is a shared backend for both SPLITGATE: Arena Reloaded and EMPULSE**. The backend can dynamically serve either game, reflecting the close technical relationship between the two titles. This helps explain the shared service and protocol behaviour observed in ReMaverick's network research.
+
+The P2P transition removes the official dedicated-server path from normal operation, with **RedKard disabled under P2P**. Arena Royale is expected to transition to P2P, while the former 64-player battle royale is not planned for P2P because of the hosting demands involved.
+
+A future **dedicated server executable** has also been discussed as a possibility, although no implementation, architecture, or commitment has been confirmed. Determining whether such an approach is technically feasible remains one of ReMaverick's longer-term research goals.
+
+The project records these statements as first-party information while keeping confirmed facts, observations, inferences, and hypotheses separate in the research repository.
+
 ## Contact & legal
 
 ReMaverick is an independent community research and preservation project and is not affiliated with, endorsed by, or operated by 1047 Games, Inc.
@@ -53,4 +63,4 @@ Please do not send passwords, authentication tokens, personal information, priva
 
 ## Why "ReMaverick"?
 
-Maverick is the name given to SPLITGATE: Arena Reloaded/EMPULSE's backend and internal API service name for 1047 Games. Since this aims to return Splitgate AR servers via dedicated server hosting as the final potential goal of this project, the name **Re**Maverick works well.
+**Maverick** is the shared backend and internal API service name used by 1047 Games for **SPLITGATE: Arena Reloaded and EMPULSE**. Since this project investigates preservation and the potential return of community-operated dedicated infrastructure, the name **Re**Maverick works well.
