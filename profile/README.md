@@ -53,4 +53,4 @@ Please do not send passwords, authentication tokens, personal information, priva
 
 ## Why "ReMaverick"?
 
-To my knowledge, Maverick was the name given to Splitgate 2's primary backend domain and internal API service name for 1047 Games. Since this aims to return Splitgate AR servers via dedicated server hosting as the final potential goal of this project, the name **Re**Maverick works well.
+Maverick is the name given to SPLITGATE: Arena Reloaded/EMPULSE's backend and internal API service name for 1047 Games. Since this aims to return Splitgate AR servers via dedicated server hosting as the final potential goal of this project, the name **Re**Maverick works well.
