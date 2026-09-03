@@ -5,7 +5,7 @@
 
 **ReMaverick** is an independent community research and preservation project focused on **SPLITGATE: Arena Reloaded** and the infrastructure that keeps it playable.
 
-1047 Games has announced that active development is ending and that, on **September 3, 2026**, Arena Reloaded will move from dedicated servers and matchmaking to peer-to-peer hosting with a server browser. ReMaverick exists to document the game before and after that transition, preserve reproducible technical knowledge, and investigate whether community-operated infrastructure can keep the game healthy long-term.
+1047 Games has announced that active development has ended and that, as of **September 3, 2026**, Arena Reloaded has moved from dedicated servers and matchmaking to peer-to-peer hosting with a server browser. ReMaverick exists to document the game before and after that transition, preserve reproducible technical knowledge, and investigate whether community-operated infrastructure can keep the game healthy long-term.
 
 ## Areas of research
 
@@ -34,12 +34,6 @@ ReMaverick is not affiliated with, endorsed by, or operated by 1047 Games.
 Do not commit proprietary game binaries, encrypted/packaged game content, credentials, personal information, or other material that should not be redistributed. Preserve observations, hashes, metadata, and analysis instead.
 
 Anti-cheat research is limited to understanding behaviour, compatibility, architecture, and interoperability. We do not publish instructions for disabling, bypassing, tampering with, or evading anti-cheat systems.
-
-### Community collaboration
-
-ReMaverickNet is an independent research and preservation project. We are currently collaborating with members of [Splitgate Lifers](https://discord.gg/gyXGrSrhpD), which is a community-led Splitgate: Arena Reloaded revival effort, while focusing on investigating the game's networking and the potential feasibility of community-hosted authoritative infrastructure following the transition away from official dedicated matchmaking, particularly in the [research repository](https://github.com/ReMaverickNet/research).
-
-SGLifers is independently focused on keeping the game's community active through P2P and other community initiatives, while ReMaverickNet's focused primarily on technical research and preservation. The two projects remain independent though, and this work is not affiliated with or endorsed by 1047 Games.
 
 ## Current technical understanding
 
